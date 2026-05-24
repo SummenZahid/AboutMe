@@ -147,13 +147,6 @@ Key outcomes:
 
 ---
 
-## 📈 GitHub Stats
-
-![Summen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=summenzahid&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=summenzahid&layout=compact&theme=tokyonight)
-
----
 
 ## 🌐 Connect With Me
 
