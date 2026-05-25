@@ -1,152 +1,238 @@
 # Hi, I'm Summen Zahid 👋
 
-### Senior Full-Stack Engineer | AI/ML | Real-Time & Distributed Systems | Technical Leadership
+### Full-Stack Engineer | WebRTC & Real-Time Communication Systems | AI/ML
 
-I'm a Senior Full-Stack Engineer based in Belfast, UK, with 5+ years of experience building scalable production systems, real-time communication platforms, live-streaming products, and AI-powered applications.
+I'm a Full-Stack Engineer based in Belfast, UK, with professional experience building real-time communication platforms, live-streaming products, WebRTC-based applications, and scalable full-stack systems.
 
-I specialise in **React**, **TypeScript**, **Node.js**, **GraphQL**, **WebRTC**, **WebSockets**, and distributed system design. I’m also completing an MSc in Computer Science, with a strong focus on **Deep Learning**, **Emerging AI**, **Data Science**, and **Intelligent Systems**.
+My core professional work is in **WebRTC**, **WebSockets**, **real-time communication**, **live streaming**, **React**, **TypeScript**, **Node.js**, **GraphQL**, and distributed system design. Alongside this, I have been expanding into **AI/ML**, **Generative AI**, **Explainable AI**, and **Vision Language Models** through my MSc and personal research projects.
 
-I enjoy building high-performance, user-focused software, designing clean architectures, mentoring engineers, and exploring how AI can accelerate meaningful product development.
-
----
-
-## 🚀 What I Do
-
-- Build scalable full-stack applications using React, TypeScript, Node.js, and GraphQL
-- Architect real-time systems with WebRTC, WebSockets, and event-driven services
-- Design and optimise microservices for high availability and performance
-- Develop GenAI pipelines and Vision Language Model based applications
-- Improve system reliability through testing, CI/CD, monitoring, and performance profiling
-- Mentor engineers, lead technical discussions, and contribute to Agile delivery
+I enjoy building reliable, high-performance software that solves real user problems, especially systems involving real-time media, communication workflows, scalable APIs, and intelligent product features.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Core Engineering Focus
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
-
-### Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql)
-![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)
-![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge)
-
-### Real-Time Systems
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge)
-
-### AI / ML & Data
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge)
-![Vision Language Models](https://img.shields.io/badge/Vision_Language_Models-8A2BE2?style=for-the-badge)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-
-### Cloud, DevOps & Databases
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=for-the-badge&logo=gitlab)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
+- Real-time communication platforms using WebRTC, WebSockets, and event-driven systems
+- Video, voice, messaging, and live-streaming product development
+- Scalable full-stack applications with React, TypeScript, Node.js, and GraphQL
+- Frontend architecture, performance optimisation, accessibility, and reusable UI systems
+- Backend APIs, microservices, distributed systems, and cloud deployment
+- CI/CD, testing, monitoring, containerisation, and production reliability
+- AI-powered applications and intelligent automation as an expanding area of focus
 
 ---
 
-## 💼 Experience Highlights
+## 🧩 Professional Experience Highlights
 
 ### Senior Full Stack Engineer — OneStream Live
-- Architected frontend systems for a live-streaming platform serving **2M+ users**
-- Designed and launched **6+ independent Node.js microservices**
-- Reduced deployment complexity by **40%**
-- Built accessible React/TypeScript UI systems with WCAG 2.1 compliance
-- Implemented WebRTC and WebSocket real-time features with adaptive reconnection
-- Reduced session failure rates by **35%**
-- Improved release cycle time by **50%** through CI/CD automation
-- Mentored junior engineers and improved team velocity through structured reviews and architecture sessions
+
+- Built and improved frontend systems for a live-streaming platform serving 2M+ users
+- Developed scalable React and TypeScript features for real-time streaming workflows
+- Designed and launched 6+ independent Node.js microservices
+- Implemented WebRTC and WebSocket-based real-time features with adaptive reconnection
+- Reduced session failure rates by 35%
+- Reduced deployment complexity by 40%
+- Improved release cycle time by 50% through CI/CD automation
+- Built accessible UI systems following WCAG 2.1 principles
+- Mentored junior engineers and contributed to architecture discussions and code reviews
 
 ### Senior Software Engineer — VdoTok
-- Designed and launched a real-time communication platform supporting video, voice, and messaging
-- Worked on systems handling **500K+ concurrent sessions**
+
+- Worked on a real-time communication platform supporting video, voice, and messaging
 - Built reusable WebRTC SDK components for third-party developers
-- Reduced WebRTC debugging MTTR by **40%**
-- Improved mobile data efficiency by **35%** through GraphQL API design
+- Contributed to systems handling high-volume concurrent communication sessions
+- Improved WebRTC debugging and observability workflows, reducing MTTR by 40%
+- Designed GraphQL APIs to improve mobile data efficiency by 35%
 - Containerised and deployed services using Docker and Kubernetes
+- Collaborated on communication infrastructure involving signalling, media sessions, and real-time state management
 
 ### Software Engineer — Norgic
+
 - Developed IoT dashboards for real-time device monitoring and control
 - Built REST APIs using Node.js, MQTT, and WebSocket protocols
-- Improved frontend load time by **40%**
+- Improved frontend load time by 40%
 - Established frontend unit and integration testing foundations
+- Worked on real-time data visualisation and device communication features
 
 ---
 
-## 🤖 AI / ML Focus
+## 🛠️ Main Tech Stack
 
-I’m currently expanding my engineering work into AI-powered systems, with hands-on experience in:
+### Real-Time & Communication
 
-- Generative AI pipelines
+- WebRTC
+- WebSockets
+- Socket-based communication
+- MQTT
+- Live streaming workflows
+- Real-time signalling
+- Event-driven architecture
+
+### Frontend
+
+- React
+- TypeScript
+- JavaScript
+- Next.js
+- Redux Toolkit
+- React Query
+- Tailwind CSS
+- Material UI
+- Storybook
+
+### Backend & APIs
+
+- Node.js
+- Express.js
+- GraphQL
+- REST APIs
+- Microservices
+- Authentication and authorization
+- API performance optimisation
+
+### Cloud, DevOps & Databases
+
+- Docker
+- Kubernetes
+- GitHub Actions
+- GitLab CI/CD
+- AWS
+- Azure
+- PostgreSQL
+- MySQL
+- MongoDB
+- Redis
+
+### AI / ML & Data
+
+- Python
+- scikit-learn
+- Pandas
+- NumPy
+- Matplotlib
+- PyTorch
+- TensorFlow
+- SHAP
+- LIME
+- Vision Language Models
+- Generative AI APIs
+
+---
+
+## 🤖 AI / ML and Research Projects
+
+My AI/ML work mainly comes from MSc study projects, research, and personal experimentation. These projects show how I apply my software engineering background to intelligent systems.
+
+### AI Home Safety Risk Assessment
+
+A GenAI and Vision Language Model pipeline for identifying in-home safety risks for older adults.
+
+Key areas:
+
 - Vision Language Models
 - Prompt engineering
-- Deep learning
-- NLP
-- Model evaluation
-- Data analysis and feature engineering
-- AI-assisted software development using Claude Opus and GitHub Copilot
+- Risk taxonomy design
+- Streamlit application development
+- Structured AI-generated reporting
+
+Tech used: Python, Streamlit, OpenAI API, Gemini API, LLaVA, Moondream, Pandas, NumPy, Matplotlib, scikit-learn
+
+### Explainable AI for Mental Health Classification
+
+A study project exploring transparency, fairness, and bias mitigation in mental health treatment prediction.
+
+Key areas:
+
+- Model comparison
+- SHAP explainability
+- LIME local explanations
+- Gender fairness analysis
+- Bias mitigation through reweighting
+
+Tech used: Python, scikit-learn, SHAP, LIME, Pandas, NumPy, Matplotlib, Seaborn
+
+### Q-Learning GridWorld Agent
+
+A reinforcement learning simulation that trains an agent to navigate a grid world using Q-learning.
+
+Key areas:
+
+- Q-learning
+- Reinforcement learning
+- Reward optimisation
+- Policy visualisation
+- Learning-rate comparison
+
+Tech used: Python, NumPy, Matplotlib
+
+### Cloud Video Platform
+
+A cloud-native video sharing platform designed as a study project to demonstrate scalable full-stack and Azure-based architecture.
+
+Key areas:
+
+- React frontend
+- Flask backend
+- Dockerised services
+- Azure Blob Storage
+- Azure Cosmos DB
+- CDN delivery
+- CI/CD deployment
+
+Tech used: React, Flask, Python, Docker, Azure, Cosmos DB, Blob Storage, GitHub Actions
 
 ---
 
-## 🎓 MSc Dissertation Project
+## 🎓 MSc Focus
 
-### In-Home Safety Risk Assessment Using GenAI
+I completed an MSc in Computer Science with a focus on AI and intelligent systems.
 
-For my MSc dissertation, I designed a **5-stage automated GenAI pipeline** to assess in-home fall risks for older adults using computer vision and Vision Language Models.
+Academic focus areas included:
 
-Key outcomes:
-
-- Reduced manual safety assessment time by **70%**
-- Benchmarked GPT-4V, Gemini, Claude Opus, and LLaVA
-- Built a 42-category home safety risk taxonomy
-- Developed a Streamlit web app for structured risk report generation
-- Reduced VLM hallucination rates by **60%** through prompt engineering
-
-**Tech used:** Python, Streamlit, OpenAI API, Gemini API, LLaVA, Moondream, Pandas, NumPy, Matplotlib, Scikit-learn
+- Deep Learning
+- Emerging AI
+- Data Science
+- Intelligent Systems
+- Responsible AI
+- Explainable AI
+- AI ethics and fairness
+- Vision Language Models
 
 ---
 
-## 🧠 Areas I Care About
+## 💡 Areas I Care About
 
-- Scalable full-stack architecture
-- Real-time communication systems
-- WebRTC and distributed systems
-- AI-powered product development
-- Frontend performance optimisation
-- Accessibility and inclusive design
+- WebRTC and real-time communication systems
+- Live-streaming and media platforms
+- Scalable frontend architecture
+- Distributed systems and microservices
+- Communication SDKs and developer experience
+- Frontend performance and accessibility
 - Testing, reliability, and clean code
-- Developer experience and engineering leadership
+- AI-powered product development
+- Responsible and explainable AI
 
 ---
 
+## 🔥 Featured Projects
+
+### Cloud Video Platform
+
+Cloud-native video sharing platform with React, Flask, Docker, Azure Blob Storage, Cosmos DB, CDN delivery, and CI/CD deployment.
+
+### AI Home Safety Risk Assessment
+
+Vision Language Model based pipeline for assessing in-home safety risks for older adults and generating structured risk reports.
+
+### Explainable AI for Mental Health Classification
+
+XAI-based mental health classification project using SHAP, LIME, fairness analysis, and bias mitigation techniques.
+
+### Q-Learning Agent Simulation
+
+Reinforcement learning grid world simulator using Q-learning to train an agent, visualize optimal policies, and compare learning rates.
+
+---
 
 ## 🌐 Connect With Me
 
@@ -158,11 +244,12 @@ Key outcomes:
 
 ## ✨ Current Focus
 
-- Completed my MSc in Computer Science with AI focus.
-- Building AI-powered applications using GenAI and Vision Language Models
-- Exploring scalable architectures for real-time and distributed systems
-- Improving engineering delivery through clean code, automation, and AI-assisted development
+- Building and improving real-time communication and live-streaming systems
+- Deepening expertise in scalable WebRTC and distributed communication architecture
+- Applying AI/ML to practical software products
+- Exploring GenAI, Vision Language Models, and Explainable AI
+- Improving engineering delivery through clean code, automation, testing, and AI-assisted development
 
 ---
 
-> “Building scalable systems, solving complex problems, and turning ideas into reliable software.”
+> Building reliable real-time systems, scalable software products, and intelligent applications that solve meaningful problems.
